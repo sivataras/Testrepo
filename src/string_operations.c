@@ -16,6 +16,7 @@ size_t main(void)
    - char *p = s;
    char *s[] = 
    int j;
+   int k;
    {
       "Git tutorials",
       "Tutorials Point"
