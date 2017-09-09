@@ -1,0 +1,24 @@
+From 53f4be0f2238f0a268c62b2bcd52ff17018882a5 Mon Sep 17 00:00:00 2001
+From: sivataras <sivataras@gmail.com>
+Date: Sat, 9 Sep 2017 14:43:43 +0100
+Subject: [PATCH] Added var l
+
+---
+ src/string_operations.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/string_operations.c b/src/string_operations.c
+index 6a7059f..0f69e11 100644
+--- a/src/string_operations.c
++++ b/src/string_operations.c
+@@ -17,6 +17,7 @@ size_t main(void)
+    char *s[] = 
+    int j;
+    int k;
++   int l;
+    {
+       "Git tutorials",
+       "Tutorials Point"
+-- 
+1.9.1
+
