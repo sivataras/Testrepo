@@ -1,6 +1,6 @@
 include <stdio.h>
 
-int my_strlen(wchar *s)
+int my_strlen_newt(wchar *s)
 {
    char *p = s;
 
