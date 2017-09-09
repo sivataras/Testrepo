@@ -1,6 +1,6 @@
 include <stdio.h>
 
-int my_strlen(wchar *s)
+int my_strlen_new(wchar *s)
 {
    char *p = s;
 
